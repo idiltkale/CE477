@@ -1,0 +1,11 @@
+antecedent_str,consequent_str,support,confidence,lift
+"Overtime=Medium, Performance=Low",Promotions=Yes,0.09003,0.6760024027631777,1.0134360799400002
+"Overtime=Medium, Satisfaction=High",Promotions=Yes,0.07363,0.6722359171003378,1.007789513522934
+"Performance=Low, Satisfaction=Medium",Promotions=Yes,0.08966,0.6719124700239808,1.0073046144518782
+"Performance=Low, WorkHours=High",Promotions=Yes,0.13511,0.6714541298081702,1.006617488918461
+"Performance=Medium, WorkHours=Low",Promotions=Yes,0.06673,0.6713955126270248,1.006529612357617
+"Overtime=Medium, Satisfaction=Medium",Promotions=Yes,0.07559,0.6713143872113677,1.0064079923413405
+"Performance=Low, Satisfaction=High",Promotions=Yes,0.08964,0.670656890617986,1.005422299439293
+Performance=Low,Promotions=Yes,0.26909,0.6704956021229411,1.0051805021032338
+"Satisfaction=High, WorkHours=High",Promotions=Yes,0.11187,0.670321768829768,1.0049198981017151
+"Overtime=Medium, WorkHours=High",Promotions=Yes,0.11089,0.6702326987005137,1.0047863676848672
